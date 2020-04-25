@@ -1,0 +1,20 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^1.1"
+    },
+    "repositories": [
+    ],
+    "autoload": {
+        "psr-4": {
+            "TKuni\\TwitterOAuthTokenResolver\\" : "src/"
+        },
+        "files": [
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "require-dev": {
+    }
+}
