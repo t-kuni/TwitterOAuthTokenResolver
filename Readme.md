@@ -14,13 +14,18 @@ docker run --rm -i tkuni83/twitter-oauth-token-resolver
 
 プロンプトに従って`Consumer API Key`や`PIN code`を入力すれば、`Access Token`が取得できます。
 
-
+![](https://raw.githubusercontent.com/t-kuni/TwitterOAuthTokenResolver/master/docs/ss1.png)
   
 `Consumer API Key`はTwitterの[開発者向けの画面](https://developer.twitter.com/en/apps)から取得してください。
 
+![](https://raw.githubusercontent.com/t-kuni/TwitterOAuthTokenResolver/master/docs/ss3.png)
+
+`PIN code`はツールが出力するリンクから取得してください。
+
+![](https://raw.githubusercontent.com/t-kuni/TwitterOAuthTokenResolver/master/docs/ss2.png)
 
 
-# Build
+# Development Build
 
 Build container.
 
