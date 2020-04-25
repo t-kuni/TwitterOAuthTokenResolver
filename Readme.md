@@ -1,6 +1,6 @@
 # TwitterOAuthTokenResolver
 
-TwitterのOAuthのアクセストークンをリダイレクト無しで取得するためのCLIツールです。  
+TwitterのOAuthのアクセストークンをリダイレクト無しで取得するためのCLIツール(Dockerイメージ)です。  
 Webの画面を持たないTwitterのツールを、複数のアカウントで使用したい場合に活用できるかと思います。  
 [PINコードベースの認可](https://developer.twitter.com/ja/docs/basics/authentication/overview/pin-based-oauth)の仕組みを使用してアクセストークンを使用します。
 
